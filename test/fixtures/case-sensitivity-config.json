@@ -1,0 +1,14 @@
+{
+  "nickname": "Reactiflux",
+  "server": "irc.freenode.net",
+  "discordToken": "discord@test.com",
+  "commandCharacters": ["!", "."],
+  "autoSendCommands": [
+    ["MODE", "test", "+x"],
+    ["AUTH", "test", "password"]
+  ],
+  "channelMapping": {
+    "#discord": "#irc chAnNelKey",
+    "#otherDiscord": "#otherirc"
+  }
+}
