@@ -30,7 +30,7 @@ node_modules
 config.json
 
 # Build
-dist/
+
 
 #config files
 config.json
